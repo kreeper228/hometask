@@ -1,0 +1,17 @@
+{
+    "name": "myshop/myproject",
+    "description": "THIS IS SHOP, THANK FOR WATCHING <3",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Myshop\\Myproject\\": "MyProject/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MAR AND VLA"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
